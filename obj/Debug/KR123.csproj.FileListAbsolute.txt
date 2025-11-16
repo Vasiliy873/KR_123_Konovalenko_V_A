@@ -1,0 +1,74 @@
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.csproj.AssemblyReference.cache
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.Properties.Resources.resources
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.csproj.GenerateResource.cache
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.csproj.CoreCompileInputs.cache
+C:\Users\DN\Desktop\KR123\bin\Debug\KR123.exe.config
+C:\Users\DN\Desktop\KR123\bin\Debug\KR123.exe
+C:\Users\DN\Desktop\KR123\bin\Debug\KR123.pdb
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.pdb
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\DN\Desktop\KR123\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.csproj.CopyComplete
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.exe
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.pdb
+C:\Users\DN\Desktop\KR123\bin\Debug\MySql.Data.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Memory.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Buffers.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\MySql.Data.xml
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.Entry.resources
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.Сhart.resources
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.EnterUser.resources
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.DataTableForm.resources
+C:\Users\DN\Desktop\KR123\bin\Debug\ClosedXML.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\ExcelNumberFormat.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\Irony.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\SixLabors.Fonts.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\System.IO.Packaging.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\XLParser.dll
+C:\Users\DN\Desktop\KR123\bin\Debug\ClosedXML.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\ExcelNumberFormat.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\SixLabors.Fonts.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Buffers.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\System.IO.Packaging.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Memory.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DN\Desktop\KR123\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.EnterAdmin.resources
+C:\Users\DN\Desktop\KR123\obj\Debug\KR123.EditBaza.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.AssemblyReference.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.SuggestedBindingRedirects.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.DataTableForm.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.EditBaza.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.EnterAdmin.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.EnterUser.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.Entry.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.Сhart.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.Properties.Resources.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.GenerateResource.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.CoreCompileInputs.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.exe
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Ковинев\KR_1-3_Charts_Polimer-master\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.pdb
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.AssemblyReference.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.SuggestedBindingRedirects.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.DataTableForm.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.EditBaza.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.EnterAdmin.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.EnterUser.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.Entry.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.Сhart.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.Properties.Resources.resources
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.GenerateResource.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.csproj.CoreCompileInputs.cache
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.exe
+D:\Институт\4 курс 7 семестр 2025\Разработка пр комп в хим и ХТ\Сделанные работы\KR_1-3_Charts_Polimer-master\obj\Debug\KR123.pdb
